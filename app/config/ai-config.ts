@@ -20,7 +20,7 @@ Based on the following GitHub repository data, generate a complete README.md fil
 - Table of Contents
 - Features
 - Tech stack (use relevant emojis for each technology)
-- Setup instructions (Installation)
+- Setup instructions (Installation including environmental virables)
 - Usage
 - Learning & Resources
 - License
